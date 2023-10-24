@@ -1,7 +1,7 @@
 # Портфолио
 ## Инженер по тестированию
 
-[![лого](https://github.com/)]
+[![лого](https://github.com/ratkingdom/portfolio/1929afd4ed3a5da99b238471f8754137.jpg)]
 
 ### Спринт 1 
 
